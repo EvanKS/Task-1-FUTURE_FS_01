@@ -1,4 +1,4 @@
-# 💼 Evan K S – Personal Portfolio Website
+# Evan K S – Personal Portfolio Website
 
 <p align="center">
   <a href="https://task-1-future-fs-01.vercel.app">
@@ -11,14 +11,14 @@
 
 ---
 
-## 🌐 Live Demo
+##  Live Demo
 
 👉 **Click here to view:**
 🔗 https://task-1-future-fs-01.vercel.app
 
 ---
 
-## 📸 Preview
+##  Preview
 
 ![Portfolio Preview](https://via.placeholder.com/1200x600.png?text=Portfolio+Preview)
 
@@ -42,7 +42,7 @@ It acts as a digital resume and demonstrates my ability to build modern, respons
 
 ---
 
-## ✨ Features
+##  Features
 
 * Fully responsive design
 * Clean and modern UI
@@ -53,7 +53,7 @@ It acts as a digital resume and demonstrates my ability to build modern, respons
 
 ---
 
-## 💻 Featured Project
+## Featured Project
 
 ### 🏥 Medora — AI Healthcare Prediction System
 
@@ -76,7 +76,7 @@ npm run dev
 
 ---
 
-## 🚀 Deployment
+##  Deployment
 
 Deployed using **Vercel**
 🔗 https://task-1-future-fs-01.vercel.app
