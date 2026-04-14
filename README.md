@@ -19,7 +19,8 @@
 ---
 
 ##  Preview
-<img width="1060" height="5751" alt="task-1-future-fs-01 vercel app_" src="https://github.com/user-attachments/assets/8e9a37fd-d5f6-41d9-9688-1ecff2ec37e9" />
+<img width="600" height="2876" alt="task-1-future-fs-01 vercel app_" src="https://github.com/user-attachments/assets/da7028ed-2aa6-40ad-9118-1061bd1eee5f" />
+
 
 
 ---
