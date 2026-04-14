@@ -19,8 +19,8 @@
 ---
 
 ##  Preview
+<img width="1060" height="5751" alt="task-1-future-fs-01 vercel app_" src="https://github.com/user-attachments/assets/8e9a37fd-d5f6-41d9-9688-1ecff2ec37e9" />
 
-![Portfolio Preview](https://via.placeholder.com/1200x600.png?text=Portfolio+Preview)
 
 ---
 
